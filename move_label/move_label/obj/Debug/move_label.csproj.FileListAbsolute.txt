@@ -1,0 +1,10 @@
+C:\Users\Taghr\source\repos\move_label\move_label\bin\Debug\move_label.exe.config
+C:\Users\Taghr\source\repos\move_label\move_label\bin\Debug\move_label.exe
+C:\Users\Taghr\source\repos\move_label\move_label\bin\Debug\move_label.pdb
+C:\Users\Taghr\source\repos\move_label\move_label\obj\Debug\move_label.csprojAssemblyReference.cache
+C:\Users\Taghr\source\repos\move_label\move_label\obj\Debug\move_label.Form1.resources
+C:\Users\Taghr\source\repos\move_label\move_label\obj\Debug\move_label.Properties.Resources.resources
+C:\Users\Taghr\source\repos\move_label\move_label\obj\Debug\move_label.csproj.GenerateResource.cache
+C:\Users\Taghr\source\repos\move_label\move_label\obj\Debug\move_label.csproj.CoreCompileInputs.cache
+C:\Users\Taghr\source\repos\move_label\move_label\obj\Debug\move_label.exe
+C:\Users\Taghr\source\repos\move_label\move_label\obj\Debug\move_label.pdb
